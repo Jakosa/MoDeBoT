@@ -1,0 +1,4 @@
+MoDeBoT
+=======
+
+MoDeBoT Irc Bot
